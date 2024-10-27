@@ -3,3 +3,4 @@ A password generator that tries to not be illogical. Currently it is not that gr
 
 ## Online PHP example - https://hgstyle.fr/tools/pwgen/
 ## Offline Python example - Run `python3 pwgen.py`
+No need for external libraries.
