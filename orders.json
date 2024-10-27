@@ -1,0 +1,6 @@
+[
+    ["pron", "noun", "adj", "verb"],
+    ["noun", "verb", "pron", "noun"],
+    ["pron", "noun", "verb", "pron", "noun"],
+    ["pron", "noun", "pron", "noun"]
+]
