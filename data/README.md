@@ -7,6 +7,7 @@ Links:
 - German: https://kaikki.org/dewiktionary/Deutsch/kaikki.org-dictionary-Deutsch.jsonl (2.4 Gb)
 - Polish: https://kaikki.org/plwiktionary/j%C4%99zyk%20polski/kaikki.org-dictionary-j%C4%99zykpolski.jsonl (406.6 Mb)
 - Spanish: https://kaikki.org/eswiktionary/Espa%C3%B1ol/kaikki.org-dictionary-Espa%C3%B1ol.jsonl (1.1 Gb)
+
 The script used to convert those files into the four TXT files can be found in the "extractor" directory.
 
 ## Syllabs data
